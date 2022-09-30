@@ -30,3 +30,5 @@ console.log(uuid.v4());
 //? 2 - Packages Demo
 
     // a - path
+    // b - fs
+    // os - os
