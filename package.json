@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Walid-Berrouk/Node_Intro/issues"
   },
-  "homepage": "https://github.com/Walid-Berrouk/Node_Intro#readme"
+  "homepage": "https://github.com/Walid-Berrouk/Node_Intro#readme",
+  "dependencies": {
+    "uuid": "^9.0.0"
+  }
 }
