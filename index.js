@@ -34,6 +34,7 @@ console.log(uuid.v4());
     // c - os
     // d - url
     // e - events
+    // f - http
 
 //? 4 - Packages Demo
 
