@@ -1,6 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
+// ? Async Versions
 // Create a folder
 
 //       // Using standard function
@@ -55,3 +56,6 @@ const path = require('path');
 //     if (err) throw err;
 //     console.log('Folder Renamed !')
 // });
+
+// ? Sync Versions
+// See Documentation : https://nodejs.org/docs/latest-v17.x/api/fs.html 
