@@ -76,4 +76,4 @@ logger.log('Hello')
 
 const writter = require('./logging/writter');
 
-writter("testWritter", "This is a test writing")
+writter("testWritter", "This is a test writing", logger)

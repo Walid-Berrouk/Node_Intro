@@ -64,7 +64,7 @@ class MyEmitter extends EventEmitter {
         console.log('id : ', this.id);
 
         // Fire the data_received event 
-        myEmitter.emit('data_received');
+        this.emit('data_received');
     }
 
     dataReceivedHandler() {
