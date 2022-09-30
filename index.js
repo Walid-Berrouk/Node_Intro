@@ -31,4 +31,5 @@ console.log(uuid.v4());
 
     // a - path
     // b - fs
-    // os - os
+    // c - os
+    // d - url
