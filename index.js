@@ -33,3 +33,4 @@ console.log(uuid.v4());
     // b - fs
     // c - os
     // d - url
+    // e - events
